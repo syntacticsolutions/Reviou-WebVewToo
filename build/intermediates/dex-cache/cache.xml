@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_72425e2faae30d16d8d40475f757aae3153287e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/5afa3d3b14ef804f8f18cc27756ab7735213de66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3a3387482a5f13a2dc34bb03aa6353af7b9c646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/4c0015b1d72268de38bd33dfacfb0be2ca5add2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9bc9d8cfe80c71f4e9b6f4318305bba3f49e218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/7c7de2f10bb70d6f77daf3d922bed075c2eb1f20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18a45659fff8699da7b740f7251bdda0226c164a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_73496642c4c737ade62baca6e0e9ecc143a2749b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/736b8d7300c7ffd7d481d80b9d30f43266dfcef8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4c3cd22d5825178859dc448864391a68e632581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2db9484c05fab407eb5219f92019a463498d8d8">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cde625d33d53ba2684e8d1caf52122b4cd977792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abd0177c5aa17420452ede59fb8dd83e0ff7ef76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_b0adf13605c2d3292684c97dfa7bde9abe41e01a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f116e7ea1a40c75a73454caced6f59275b999d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/a296e5437f65b1029e35d29cb6a1f2d344a178e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d76fe31e46062267d81b41ce7ba5f5797508558a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/0eae57b0560631bf3c7bc19dc3eea4d1cb1b2d56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_132d393c9bb3384819eb1baf8a091734a1f8ad08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/3b14865f3a48d52cf281dc5da8ce5335c848cef8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb21bb1391d252648566eb643cea5c96f3add8f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/5aefb746aa9c8a256ac2ffb5a45e6fa0b79871b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ffcfcb3bbb0b7ef3291dd36b015502cb990ec75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/c1e6a0f2883dc9f2377c2f7cc12794b77e037eab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80a949439dd9453b20e153f6276acc256f8aba68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/e3685473b273d547d8bfce78f44b984c6a5e5a03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dae96dfeefa1c6afd3ba63354e7d5bee24f2ae46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.android/build-cache/3e632ae740899c7f75049d1fb5830b7a84d47416/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c20ecf9253d0c4ea3a07a77cf8c1c483695122a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Miguel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Miguel/AndroidStudioProjects/Relate/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1e33cd6e21bc5a2620573cdda751f368ddc4e2db/classes.dex" />
+    </item>
+
+</items>
